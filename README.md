@@ -1,6 +1,6 @@
 # FF3 Native FPS Unlock — 60+ FPS and DirectX 12 for FINAL FANTASY III (3D Remake, Steam)
 
-Version 1.0 · Supported executable: `FF3_Win32.exe` (current Steam build, SHA-256 `feb914c5…3c9e`)
+Version 1.1 · Supported executable: `FF3_Win32.exe` (current Steam build, SHA-256 `feb914c5…3c9e`)
 
 English first · Português (PT-BR) abaixo
 
